@@ -14,7 +14,7 @@ Scopul a 3 clase e sa aiba anumite relatii intre ele
 3.
  */
 //prima clasa
-Clienti.cs
+//Clienti.cs
 
 namespace WindowsFormsAppProjectHotelReservation.Class
 {
@@ -31,8 +31,8 @@ namespace WindowsFormsAppProjectHotelReservation.Class
     }
 }
 
-//a doua clasa
-Rezervari.cs
+//a 2-a clasa
+//Rezervari.cs
 
 using System;
 using System.Collections.Generic;
@@ -76,8 +76,8 @@ namespace WindowsFormsAppProjectHotelReservation.Class
     }
 }
 
-//a 3 a clasa 
-RevervariClienti.cs
+//a 3-a clasa 
+//RevervariClienti.cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
