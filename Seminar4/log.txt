@@ -1,0 +1,10 @@
+ GUI Created
+ CommandLine Created
+Thu Mar 18 18:09:58 EET 2021  GUI Created
+Thu Mar 18 18:10:01 EET 2021  CommandLine Created
+Thu Mar 18 18:12:08 EET 2021  GUI Created
+Thu Mar 18 18:12:11 EET 2021  CommandLine Created
+Thu Mar 18 18:14:30 EET 2021  GUI Created
+Thu Mar 18 18:14:33 EET 2021  CommandLine Created
+Thu Mar 18 18:47:48 EET 2021  GUI Created
+Thu Mar 18 18:47:51 EET 2021  CommandLine Created

@@ -1,6 +1,4 @@
-package ro.ase.cts.before;
-import ro.cts.before.gui.CommandLine;
-import ro.cts.before.gui.Gui;
+package ro.ase.cts.before.classes;
 
 public class Main {
 public static void  main(String[] args) {

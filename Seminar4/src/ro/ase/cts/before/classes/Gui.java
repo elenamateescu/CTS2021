@@ -1,4 +1,4 @@
-package ro.cts.before.gui;
+package ro.ase.cts.before.classes;
 
 import ro.ase.cts.before.Logger;
 
